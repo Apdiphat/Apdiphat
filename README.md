@@ -1,5 +1,3 @@
-
-https://th.bing.com/th/id/OIP.-EGsK--u3aJAxVoGsjsz7AHaFj?pid=ImgDet&rs=1<h1 
 align="center">Hi 👋, I'm Abdifatah Mohamed</h1>
 <h3 align="center">A passionate Software Engineer from Somaliland</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshot/3848914/programmer.gif">
@@ -15,7 +13,7 @@ align="center">Hi 👋, I'm Abdifatah Mohamed</h1>
 
 - 💬 Ask me about **Technician , Software**
 
-- 📫 How to reach me **ciroqays2@gmail.com**
+- 📫 How to reach me **ciroqays@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
