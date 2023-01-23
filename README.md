@@ -1,4 +1,4 @@
-align="center">Hi 👋, I'm Abdifatah Mohamed</h1>
+     👋, I'm Abdifatah Mohamed</h1>
 <h3 align="center">A passionate Software Engineer from Somaliland</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshot/3848914/programmer.gif">
 
